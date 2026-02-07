@@ -6,9 +6,11 @@ author_profile: true
 ---
 ## Publications
 
-### [The undoing of economic sanctions: Evidence from the Russia–Ukraine conflict](https://www.sciencedirect.com/science/article/abs/pii/S0047272725001689), with Raymond Fisman and Giovanna Marcolongo
+### [The undoing of economic sanctions: Evidence from the Russia–Ukraine conflict](https://www.sciencedirect.com/science/article/abs/pii/S0047272725001689)
+with Raymond Fisman and Giovanna Marcolongo
 
-### [State Ownership and Firm R&D Performance: Objectives or Capabilities?](https://onlinelibrary.wiley.com/doi/10.1111/jems.70016), with Yang Ming
+### [State Ownership and Firm R&D Performance: Objectives or Capabilities?](https://onlinelibrary.wiley.com/doi/10.1111/jems.70016)
+with Yang Ming
 
 ## Selected Working Papers 
 
