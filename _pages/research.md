@@ -10,13 +10,13 @@ author_profile: true
 
 ### [State Ownership and Firm R&D Performance: Objectives or Capabilities?](https://onlinelibrary.wiley.com/doi/10.1111/jems.70016), with Yang Ming
 
-## Working Papers 
+## Selected Working Papers 
 
 ### [Checks and Balances: Media Criticism in China](http://wumengecon.github.io/files/chinamedia.pdf)
 
 ### [Weapons of the Weak: How Merchants Defend Their Nation](http://wumengecon.github.io/files/Boycotts.pdf)
 
-## Work in Progress
+## Selected Work in Progress
 
 Natural Resources Curse Revisited (with Raymond Fisman, polished version available soon)
 
