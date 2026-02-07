@@ -14,7 +14,7 @@ author_profile: true
 
 ### [Checks and Balances: Media Criticism in China](http://wumengecon.github.io/files/chinamedia.pdf)
 
-### [Weapons of the Weak: How Merchants Defend Their Nation](http://wumengecon.github.io/files/boycotts.pdf)
+### [Weapons of the Weak: How Merchants Defend Their Nation](http://wumengecon.github.io/files/Boycotts.pdf)
 
 ## Work in Progress
 
