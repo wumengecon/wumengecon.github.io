@@ -4,6 +4,13 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
+## Instructor
+
+The History of Economic Thoughts, School of Economics, Xiamen University, Fall 2023 and Spring of 2025 & 2026
+
+Applied Microeconometrics, WISE, Xiamen University, Fall 2023 & 2024 and Spring of 2026
+
 ## Teaching Assistant/Online Course Designer 
 
 Introductory Macroeconomics, Department of Economics, Boston University, Spring 2021
